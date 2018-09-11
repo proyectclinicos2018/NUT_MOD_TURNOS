@@ -1,0 +1,7 @@
+C:\Users\emanuel.islas\Desktop\Nutricion\Escritorio\Configuracion Turnos\Modificar\Frm_Moficar_Configuracion_Turnos\obj\x86\Debug\Frm_Moficar_Configuracion_Turnos.Frm_Modificar_Configuracion_Turnos.resources
+C:\Users\emanuel.islas\Desktop\Nutricion\Escritorio\Configuracion Turnos\Modificar\Frm_Moficar_Configuracion_Turnos\obj\x86\Debug\Modificar_Configuracion_Turnos.csproj.GenerateResource.Cache
+C:\Users\emanuel.islas\Desktop\Nutricion\Escritorio\Configuracion Turnos\Modificar\Frm_Moficar_Configuracion_Turnos\bin\Debug\Modificar_Configuracion_Turnos.exe
+C:\Users\emanuel.islas\Desktop\Nutricion\Escritorio\Configuracion Turnos\Modificar\Frm_Moficar_Configuracion_Turnos\bin\Debug\Modificar_Configuracion_Turnos.pdb
+C:\Users\emanuel.islas\Desktop\Nutricion\Escritorio\Configuracion Turnos\Modificar\Frm_Moficar_Configuracion_Turnos\obj\x86\Debug\Modificar_Configuracion_Turnos.Properties.Resources.resources
+C:\Users\emanuel.islas\Desktop\Nutricion\Escritorio\Configuracion Turnos\Modificar\Frm_Moficar_Configuracion_Turnos\obj\x86\Debug\Modificar_Configuracion_Turnos.exe
+C:\Users\emanuel.islas\Desktop\Nutricion\Escritorio\Configuracion Turnos\Modificar\Frm_Moficar_Configuracion_Turnos\obj\x86\Debug\Modificar_Configuracion_Turnos.pdb
